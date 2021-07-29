@@ -1,0 +1,10 @@
+{
+  "simulation": "AutomationPractiseRecorder",
+  "simulationId": "automationpractiserecorder",
+  "start": 1627215625106,
+  "description": "test runner",
+  "scenarios": ["AutomationPractiseRecorder"],
+  "assertions": [
+
+  ]
+}

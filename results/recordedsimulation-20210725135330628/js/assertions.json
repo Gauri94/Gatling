@@ -1,0 +1,10 @@
+{
+  "simulation": "RecordedSimulation",
+  "simulationId": "recordedsimulation",
+  "start": 1627221210628,
+  "description": "automation practise",
+  "scenarios": ["AutomationEcommerceRecordedSimulation"],
+  "assertions": [
+
+  ]
+}

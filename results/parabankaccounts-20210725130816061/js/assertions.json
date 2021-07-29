@@ -1,0 +1,10 @@
+{
+  "simulation": "ParaBankAccounts",
+  "simulationId": "parabankaccounts",
+  "start": 1627218496061,
+  "description": "negative test case",
+  "scenarios": ["ParaBankAccounts"],
+  "assertions": [
+
+  ]
+}

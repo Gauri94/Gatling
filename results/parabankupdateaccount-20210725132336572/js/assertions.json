@@ -1,0 +1,10 @@
+{
+  "simulation": "ParaBankUpdateAccount",
+  "simulationId": "parabankupdateaccount",
+  "start": 1627219416572,
+  "description": "update account",
+  "scenarios": ["ParaBankUpdateAccount"],
+  "assertions": [
+
+  ]
+}

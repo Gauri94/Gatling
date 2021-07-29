@@ -1,0 +1,10 @@
+{
+  "simulation": "computerdatabase.advanced.AdvancedSimulationStep05",
+  "simulationId": "advancedsimulationstep05",
+  "start": 1626886065762,
+  "description": "test run",
+  "scenarios": ["Users", "Admins"],
+  "assertions": [
+
+  ]
+}
